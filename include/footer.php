@@ -8,7 +8,7 @@
                                         <div class="row">
                                                 <div class="span6">
                                                         <p class="copyright">
-                                                                ©2016 蔡哲民師的期末專題作業</a>
+                                                                ©個人小作品</a>
                                                         </p>
                                                 </div>
                                         </div>

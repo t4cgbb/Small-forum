@@ -82,7 +82,6 @@
                                 </div>
                         </div>
                 </div>
-                <!-- End of Page Container -->
 
 <?php include("../../include/footer.php") ?>
 

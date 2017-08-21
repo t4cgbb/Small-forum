@@ -1,10 +1,10 @@
-# 上課學習PHP所寫的作品-仿小論壇
+# 上課學習PHP所寫的作品
 
 <br><br><br>
 
 
 
-
+![](http://i.imgur.com/GF0kiEV.gif)
 
 ## 演示：http://ssliterary.esy.es/work/
 

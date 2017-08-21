@@ -1,7 +1,7 @@
 ﻿<?php
 
 	if(!isset($_SESSION)){
-		session_start();  
+		session_start(); 
 	}
 
 	$page_judge = $_REQUEST['judge'];

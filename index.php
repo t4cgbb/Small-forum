@@ -127,8 +127,8 @@
                                                                 <ul id="menu-quick-links" class="menu clearfix">
                                                                         <li><a href="index.php">首頁</a></li>
                                                                         <!--<li><a href="articles-list.html">文章清單</a></li>-->
-                                                                        <li><a href="http://db.vexp.idv.tw/">蔡哲民師的資料庫</a></li>
-                                                                        <li><a href="http://js.vexp.idv.tw/">蔡哲民師的進階教學</a></li>
+                                                                        <li><a href="t4gamelive.com">T思搜一下</a></li>
+                                                                        <li><a href="t4cgbb.space">個人學習空間</a></li>
                                                                 </ul>
                                                         </div>
                                                 </section>

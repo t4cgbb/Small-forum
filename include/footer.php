@@ -1,7 +1,6 @@
                 <!-- Start of Footer -->
                 <footer id="footer-wrapper">
                         <!-- end of #footer -->
-
                         <!-- Footer Bottom -->
                         <div id="footer-bottom-wrapper">
                                 <div id="footer-bottom" class="container">
